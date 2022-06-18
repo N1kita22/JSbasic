@@ -12,7 +12,7 @@ function compareSum(firstFrom, firstTo, secondFrom, secondTo) {
   if (firstSum > secondSum) {
     return true;
   } else {
-    return;
+    return false;
   }
 }
 
